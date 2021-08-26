@@ -61,12 +61,14 @@ class Boolean extends Element
         $idx = $offset;
         Length::expectFromDER($data, $idx, 1);
         $byte = ord($data[$idx++]);
+        /*
         if (0 !== $byte) {
             if (0xff !== $byte) {
                 throw new DecodeException(
                     'DER encoded boolean true must have all bits set to 1.');
             }
         }
+        */
         $offset = $idx;
         return new self(0 !== $byte);
     }
