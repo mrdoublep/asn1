@@ -10,7 +10,7 @@ Distinguished Encoding Rules (DER) encoding and decoding.
 
 ## Requirements
 
-- PHP >=7.2
+- PHP >=7.4
 - gmp
 - mbstring
 
@@ -20,7 +20,7 @@ This library is available on
 [Packagist](https://packagist.org/packages/sop/asn1).
 
 ```sh
-composer require sop/asn1
+composer require mrdoublep/asn1
 ```
 
 ## Usage
