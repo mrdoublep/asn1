@@ -16,6 +16,11 @@
             "name": "Joni Eskelinen",
             "email": "jonieske@gmail.com",
             "role": "Developer"
+        },
+        {
+            "name": "Double P.",
+            "email": "mr.doublep@gmail.com",
+            "role": "Developer"
         }
     ],
     "require": {
