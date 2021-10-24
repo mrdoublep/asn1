@@ -1,7 +1,7 @@
 {
-    "name": "sop/asn1",
+    "name": "mrdoublep/asn1",
     "description": "A PHP library for X.690 ASN.1 DER encoding and decoding.",
-    "homepage": "https://github.com/sop/asn1",
+    "homepage": "https://github.com/mrdoublep/asn1",
     "license": "MIT",
     "type": "library",
     "keywords": [
